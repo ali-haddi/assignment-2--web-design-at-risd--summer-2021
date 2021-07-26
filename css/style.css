@@ -7,6 +7,7 @@ img {
 h2  {
   font-size: 70%;
   position: absolute;
+  top: 50px;
 }
 ol  {
   position: absolute;
