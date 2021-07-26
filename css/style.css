@@ -1,3 +1,4 @@
+  font-family: Georgia, serif;
 img {
   width: 400px;
   height: 400px;
@@ -8,8 +9,10 @@ h2  {
   font-size: 70%;
   position: absolute;
   top: 80px;
+  font-family: Helvetica, serif;
 }
 ol  {
+  font-family: Helvetica, serif;
   text-align: right;
   position: absolute;
   left: 415px;
@@ -18,5 +21,7 @@ ol  {
 }
 
 p  {
+  font-family: Helvetica, serif;
+  font-family: Helvetica, serif;
   font-style: italic;
 }
