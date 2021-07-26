@@ -3,3 +3,10 @@ img {
   height: 400px;
   position: relative;
 }
+
+ol  {
+  position: absolute;
+  left: 415px;
+  bottom: 370px;
+  font-size: 100%;
+}
