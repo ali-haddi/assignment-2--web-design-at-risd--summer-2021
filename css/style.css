@@ -28,6 +28,7 @@ p  {
 }
 
 figcaption  {
+  color: white;
   font-family: Helvetica, serif;
   font-style: italic;
 }
