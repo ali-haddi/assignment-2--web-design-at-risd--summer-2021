@@ -9,13 +9,8 @@ ol  {
   left: 415px;
   bottom: 220px;
   font-size: 240%;
+}
 
-}
-figure  {
+p  {
   font-style: italic;
-  font-size: 90%;
-}
-ul  {
-  position: relative;
-  bottom: 200px;
 }
