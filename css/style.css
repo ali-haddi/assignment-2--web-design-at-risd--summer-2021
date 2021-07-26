@@ -10,6 +10,7 @@ h2  {
   top: 50px;
 }
 ol  {
+  text-align: right;
   position: absolute;
   left: 415px;
   bottom: 220px;
